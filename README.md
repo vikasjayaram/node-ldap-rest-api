@@ -7,8 +7,7 @@ therefore act as a webservice fronting LDAP for Custom DB HTTP endpoint access (
 ## Import the LDAP REST API collection and environment variables into Postman
 Click the button below and select the Desktop version of Postman (Chrome extension doesn't support environment variables):
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/9ee11177f3ce1f806ea0)
-
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/9ee11177f3ce1f806ea0)
 
 ## Running locally
 
