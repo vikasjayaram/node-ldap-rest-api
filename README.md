@@ -14,6 +14,7 @@ Click the button below and select the Desktop version of Postman (Chrome extensi
 To run the sample extension locally:
 
 Rename `.env.sample` as `.env` and add the required values for each key value pair.
+Rename `config.example.json` as `config.json` and add the required values for each key value pair.
 
 ```bash
 $ npm install
