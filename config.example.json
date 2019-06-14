@@ -1,0 +1,9 @@
+{
+    "LDAP_ENDPOINT": "ldap://{HOST}",
+    "LDAP_BASE_DN": "{BASE DC}",
+    "LDAP_BIND_USER": "{LDAP SERVICE ACCOUNT}",
+    "LDAP_BIND_PASSWORD": "{LDAP SERVICE ACCOUNT PASSWORD}",
+    "LDAP_USER_BY_NAME": "(|(cn={0})(mail={0}))",
+    "LDAP_OBJECT_CLASS": ["person", "organizationalPerson", "inetOrgPerson"],
+    "IS_ACTIVE_DIRECTORY": false
+}
