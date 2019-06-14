@@ -26,8 +26,10 @@ Alternatively, just do `node server.js` - useful for running in debug mode etc
 
 ## To use as Custom DB
 
-The endpoints include the REST endpoints to handle account management & custom signup requirements from within an application -
+The endpoints include the REST endpoints to handle account management & custom signup requirements from within an application 
 However, this project also includes endpoints for integration with the Auth0 Custom DB scripts. To run the API locally yet have it called from Auth0 Dashboard scripts, use ngrok to expose your locally running instance over the internet.
+
+[auth0-customdb-scripts](https://github.com/vikasjayaram/auth0-customdb-scripts)
 
 Install `ngrok` using `npm i ngrok -g`
 
