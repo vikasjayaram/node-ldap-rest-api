@@ -4,7 +4,7 @@ A sample Resource API with CRUD operations.
 The domain object (account) corresponds to a typical Auth0 Custom DB table and this API can
 therefore act as a webservice fronting LDAP for Custom DB HTTP endpoint access (from Rules, Custom DB Scripts or other webtasks).
 
-## Import the LDAP REST API collection and LDAP API Environment Variables into Postman
+## Import the LDAP REST API collection and environment variables into Postman
 Click the button below and select the Desktop version of Postman (Chrome extension doesn't support environment variables):
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/9ee11177f3ce1f806ea0)
