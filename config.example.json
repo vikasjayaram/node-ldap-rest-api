@@ -5,5 +5,6 @@
     "LDAP_BIND_PASSWORD": "{LDAP SERVICE ACCOUNT PASSWORD}",
     "LDAP_USER_BY_NAME": "(|(cn={0})(mail={0}))",
     "LDAP_OBJECT_CLASS": ["person", "organizationalPerson", "inetOrgPerson"],
-    "IS_ACTIVE_DIRECTORY": false
+    "IS_ACTIVE_DIRECTORY": false,
+    "skipForOpenLDAP": true
 }
