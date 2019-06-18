@@ -23,6 +23,9 @@ $ npm start
 
 Alternatively, just do `node server.js` - useful for running in debug mode etc
 
+## Running OpenLdap in Docker locally
+
+[docker-openldap](https://github.com/vikasjayaram/docker-openldap-scripts)
 
 ## To use as Custom DB
 
