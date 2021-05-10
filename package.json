@@ -23,7 +23,7 @@
     "express-boom": "^3.0.0",
     "express-ip-access-control": "^1.0.5",
     "ldapcrud": "git+https://github.com/vikasjayaram/ldapcrud.git",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "morgan": "^1.9.1",
     "node-ssha256": "^0.1.1",
     "node-uuid": "^1.4.8",
